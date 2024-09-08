@@ -154,7 +154,7 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 ### 1.1.2. Perfiles de integrantes del equipo
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Alcántara Cruz, Rodrigo Alonso <br> <img src="Images/RodrigoAl.png" width="100"/>|[texto] |
+| Alcántara Cruz, Rodrigo Alonso <br> <img src="Images/RodrigoAl.png" width="100"/>|Mi nombre es Rodrigo Alonso Alcantara Cruz y tengo 19 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Considero que soy una persona que busca el aprendizaje continuo y siempre intento resolver los problemas de forma rapida y eficaz. Tengo conocimiento en lenguajes de programación. Por lo general siempre intento mejorar mi metodo de estudio para poder expandir mi conocimiento. |
 |Eric Fabrizio Agama Espinoza <br> <img src="Images/Eric.png" width="150"/> | Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.              |             |
 |              |          |
 | Elías Sanchez, Harold Miguel <br> <img src="Images/harold.png" width="150"/>      | Mi nombre es Harold Miguel Elías Sánchez con código u202212684 tengo 19 años y estoy en quinto ciclo de la carrera de ingeniería de software. Mi conocimiento técnico abarca el lenguaje C++ y Python, que manejo de manera intermedia. Además, poseo habilidades básicas que me permiten contribuir efectivamente en equipos, aportando ideas y trabajando en colaboración para alcanzar nuestras metas conjuntas. |
@@ -246,7 +246,7 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 
 ### Hipótesis de Crecimiento:
 - **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
-- 
+
 ### 1.2.2.4. Lean UX Canvas
 
 # 1.2.2.4. Lean UX Canvas
@@ -311,7 +311,7 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 
 ### Tabla de Análisis Competitivo:
 
-|                     | TutorMatch (Su startup)   | Superprof                 | Udemy                     | Preply                   |
+|                     | TutorMatch   | Superprof                 | Udemy                     | Preply                   |
 |---------------------|---------------------------|---------------------------|---------------------------|--------------------------|
 | **Perfil**          |                           |                           |                           |                          |
 | Overview            | Plataforma de tutorías diseñada específicamente para estudiantes de Ingeniería de Software en la UPC. | Plataforma global de tutorías en diversas materias. | Plataforma de cursos en línea con un amplio rango de temas. | Plataforma global de tutorías con énfasis en clases individuales. |
@@ -441,163 +441,147 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 
 
 ### 2.2.3. Análisis de entrevistas
-## Análisis del Segmento 1
-- 1. Cursos que requieren apoyo académico:
+### 2.2.3. Análisis de entrevistas
 
+## Análisis del Segmento 1
+
+- **1. Cursos que requieren apoyo académico:**
   - Rodrigo busca ayuda en Aplicaciones Web y Open Source.
   - Mateo enfrenta dificultades en programación en general.
-  - Alejandro menciona dificultades generales en la comprensión de temas debido a la sobrecarga de información. <br>
-- Porcentaje: 100% de los entrevistados identifican cursos específicos o temas generales que requieren apoyo académico.
-<br>
-- 2. Desafíos específicos:
+  - Alejandro menciona dificultades generales en la comprensión de temas debido a la sobrecarga de información.  
+  **Porcentaje:** 100% de los entrevistados identifican cursos específicos o temas generales que requieren apoyo académico.
 
+- **2. Desafíos específicos:**
   - Rodrigo se enfrenta a conceptos avanzados y manejo de múltiples lenguajes.
   - Mateo tiene problemas con la teoría y la programación.
-  - Alejandro lucha con la sobrecarga de información y la autodidacta. <br>
-- Porcentaje: 100% indican desafíos específicos que motivan la búsqueda de ayuda.
-<br>
-- 3. Preferencias para la tutoría:
+  - Alejandro lucha con la sobrecarga de información y la autodidacta.  
+  **Porcentaje:** 100% indican desafíos específicos que motivan la búsqueda de ayuda.
 
+- **3. Preferencias para la tutoría:**
   - Rodrigo prefiere sesiones individuales en línea.
   - Mateo prefiere aprendizaje en línea y en grupo.
-  - Alejandro prefiere sesiones individuales presenciales. <br>
-- Porcentaje:
+  - Alejandro prefiere sesiones individuales presenciales.  
+  **Porcentaje:**
     - Individual: 66.7% (Rodrigo, Alejandro)
     - En línea: 66.7% (Rodrigo, Mateo)
     - En grupo: 33.3% (Mateo)
-<br>
-- 4. Características importantes en un tutor:
 
+- **4. Características importantes en un tutor:**
   - Rodrigo valora paciencia y habilidades de comunicación.
   - Mateo considera crucial el conocimiento técnico y buenas habilidades docentes.
-  - Alejandro destaca el dominio de los temas, claridad y paciencia. <br>
-- Porcentaje:
+  - Alejandro destaca el dominio de los temas, claridad y paciencia.  
+  **Porcentaje:**
     - Paciencia y habilidades de comunicación: 66.7% (Rodrigo, Alejandro)
     - Conocimiento técnico y habilidades docentes: 66.7% (Mateo, Alejandro)
-<br>
-- 5. Experiencia previa con tutorías:
 
+- **5. Experiencia previa con tutorías:**
   - Rodrigo ha tenido experiencias positivas con tutorías grupales.
   - Mateo valora las reuniones en grupo.
-  - Alejandro ha tenido tutorías menos efectivas con un amigo. <br>
-- Porcentaje:
+  - Alejandro ha tenido tutorías menos efectivas con un amigo.  
+  **Porcentaje:**
     - Positiva con tutorías grupales: 33.3% (Rodrigo, Mateo)
     - Negativa o poco efectiva: 33.3% (Alejandro)
-<br>
-- 6. Frecuencia deseada de las tutorías:
 
+- **6. Frecuencia deseada de las tutorías:**
   - Rodrigo necesitaría dos sesiones semanales.
   - Mateo no especifica frecuencia pero valora la interacción en grupo.
-  - Alejandro considera que más sesiones son mejores para la práctica constante. <br>
-- Porcentaje: 66.7% (Rodrigo, Alejandro) prefieren sesiones frecuentes.
-<br>
-- 7. Preferencia del tipo de tutor:
+  - Alejandro considera que más sesiones son mejores para la práctica constante.  
+  **Porcentaje:** 66.7% (Rodrigo, Alejandro) prefieren sesiones frecuentes.
 
+- **7. Preferencia del tipo de tutor:**
   - Rodrigo prefiere un profesional.
   - Mateo valora tanto a estudiantes avanzados como profesionales.
-  - Alejandro no tiene preferencia entre estudiante o profesional. <br>
-- Porcentaje:
+  - Alejandro no tiene preferencia entre estudiante o profesional.  
+  **Porcentaje:**
     - Profesional: 33.3% (Rodrigo)
     - Estudiante avanzado o profesional: 66.7% (Mateo, Alejandro)
-<br>
-- 8. Expectativas de resultados:
 
+- **8. Expectativas de resultados:**
   - Rodrigo busca una mejor comprensión de conceptos complejos.
   - Mateo quiere mejorar en programación y teoría.
-  - Alejandro espera una comprensión más clara y detallada. <br>
-- Porcentaje: 100% tienen expectativas claras de mejora en comprensión y rendimiento.
-<br>
-- 9. Probabilidad de recomendación:
+  - Alejandro espera una comprensión más clara y detallada.  
+  **Porcentaje:** 100% tienen expectativas claras de mejora en comprensión y rendimiento.
 
+- **9. Probabilidad de recomendación:**
   - Rodrigo probablemente recomendaría la plataforma si cumple con sus necesidades.
   - Mateo muestra apertura a recomendar la plataforma si se ajusta a sus preferencias.
-  - Alejandro también estaría dispuesto a recomendar si la experiencia es efectiva. <br>
-- Porcentaje: 100% serían propensos a recomendar la plataforma si cumple con sus expectativas.
+  - Alejandro también estaría dispuesto a recomendar si la experiencia es efectiva.  
+  **Porcentaje:** 100% serían propensos a recomendar la plataforma si cumple con sus expectativas.
 
 ## Análisis del Segmento 2
-- 1. Cursos que consideran dominar:
 
+- **1. Cursos que consideran dominar:**
   - José Cuevas domina cursos clave de Ingeniería de Software (no especificados).
   - Joaquín Cortez menciona Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web y Sistemas Operativos.
-  - Christofer More no especifica cursos concretos, pero sugiere un conocimiento amplio en programación.
-<br>
-- Porcentaje: 100% de los entrevistados tienen dominio en áreas específicas de Ingeniería de Software.
+  - Christofer More no especifica cursos concretos, pero sugiere un conocimiento amplio en programación.  
+  **Porcentaje:** 100% de los entrevistados tienen dominio en áreas específicas de Ingeniería de Software.
 
-- 2. Motivación para ser tutor:
-
+- **2. Motivación para ser tutor:**
   - José Cuevas está motivado por ganar experiencia y ayudar a otros.
   - Joaquín Cortez quiere ayudar a otros, reforzar sus conocimientos y ganar experiencia en comunicación técnica.
-  - Christofer More busca ayudar a otros y ganar una ganancia monetaria extra. <br>
-- Porcentaje:
+  - Christofer More busca ayudar a otros y ganar una ganancia monetaria extra.  
+  **Porcentaje:**
     - Ganar experiencia: 66.7% (José, Joaquín)
     - Ayudar a otros: 100% (José, Joaquín, Christofer)
     - Ingresos: 33.3% (Christofer)
 
-- 3. Estilo de enseñanza:
-
+- **3. Estilo de enseñanza:**
   - José Cuevas utiliza un estilo paciente y personalizado, adaptado a las necesidades del estudiante.
   - Joaquín Cortez tiene un estilo paciente y estructurado, con ejemplos prácticos y herramientas interactivas.
-  - Christofer More explica con ejemplos y línea por línea de código. <br>
-Porcentaje:
+  - Christofer More explica con ejemplos y línea por línea de código.  
+  **Porcentaje:**
     - Paciente: 66.7% (José, Joaquín)
     - Personalizado y estructurado: 66.7% (José, Joaquín)
     - Ejemplos y explicación detallada: 33.3% (Christofer)
-<br>
-- 4. Herramientas y recursos utilizados:
 
+- **4. Herramientas y recursos utilizados:**
   - José Cuevas usa diversas herramientas y métodos adaptados a cada estudiante.
   - Joaquín Cortez utiliza pizarras virtuales y plataformas de codificación en línea.
-  - Christofer More usa ejemplos propios y explica el código línea por línea. <br>
-Porcentaje:
+  - Christofer More usa ejemplos propios y explica el código línea por línea.  
+  **Porcentaje:**
     - Herramientas interactivas y ejemplos: 66.7% (Joaquín, Christofer)
     - Métodos adaptados a las necesidades: 33.3% (José)
-<br>
-- 5. Manejo de estudiantes con dificultades:
 
+- **5. Manejo de estudiantes con dificultades:**
   - José Cuevas adaptaría su enfoque según las necesidades.
   - Joaquín Cortez utilizaría ejemplos prácticos y recursos interactivos.
-  - Christofer More explicaría detalladamente el proceso. <br>
-- Porcentaje: 100% están dispuestos a adaptar su enfoque según las dificultades del estudiante.
-<br>
-- 6. Modalidad de las tutorías:
+  - Christofer More explicaría detalladamente el proceso.  
+  **Porcentaje:** 100% están dispuestos a adaptar su enfoque según las dificultades del estudiante.
 
+- **6. Modalidad de las tutorías:**
   - José Cuevas está dispuesto a ofrecer tutorías en línea y presenciales.
   - Joaquín Cortez también está dispuesto a ofrecer ambas modalidades.
-  - Christofer More no especifica modalidad, pero implícitamente sugiere flexibilidad. <br>
-Porcentaje:
+  - Christofer More no especifica modalidad, pero implícitamente sugiere flexibilidad.  
+  **Porcentaje:**
     - En línea y presenciales: 66.7% (José, Joaquín)
     - No especificado: 33.3% (Christofer)
-<br>
-- 7. Gestión del tiempo entre estudios y tutorías:
 
+- **7. Gestión del tiempo entre estudios y tutorías:**
   - Joaquín Cortez utiliza herramientas de gestión del tiempo.
   - José Cuevas no menciona específicamente, pero se asume flexibilidad.
-  - Christofer More no menciona estrategias de gestión del tiempo. <br>
-- Porcentaje: 33.3% mencionan estrategias de gestión del tiempo específicas.
-<br>
-- 8. Expectativas de la experiencia de ser tutor:
+  - Christofer More no menciona estrategias de gestión del tiempo.  
+  **Porcentaje:** 33.3% mencionan estrategias de gestión del tiempo específicas.
 
+- **8. Expectativas de la experiencia de ser tutor:**
   - José Cuevas espera mejorar sus habilidades de enseñanza y comunicación.
   - Joaquín Cortez espera obtener retroalimentación y mejorar habilidades de enseñanza.
-  - Christofer More busca ayudar a otros y disfrutar del proceso de enseñanza. <br>
-- Porcentaje: 100% tienen expectativas de mejorar en habilidades de enseñanza y comunicación.
-<br>
-- 9. Tipos de estudiantes que se beneficiarían:
+  - Christofer More busca ayudar a otros y disfrutar del proceso de enseñanza.  
+  **Porcentaje:** 100% tienen expectativas de mejorar en habilidades de enseñanza y comunicación.
 
+- **9. Tipos de estudiantes que se beneficiarían:**
   - José Cuevas cree que estudiantes con diversas necesidades se beneficiarían.
   - Joaquín Cortez considera que estudiantes que buscan estructura y ejemplos prácticos.
-  - Christofer More piensa que estudiantes que necesitan explicación detallada. <br>
-Porcentaje:
+  - Christofer More piensa que estudiantes que necesitan explicación detallada.  
+  **Porcentaje:**
     - Diversos tipos de estudiantes: 66.7% (José, Joaquín)
     - Estudiantes con necesidades específicas: 33.3% (Christofer)
-<br>
-- 10. Expectativas sobre la plataforma TutorMatch:
 
+- **10. Expectativas sobre la plataforma TutorMatch:**
   - José Cuevas espera mejorar sus habilidades y conectar con otros tutores.
   - Joaquín Cortez espera recibir retroalimentación y mejorar su enseñanza.
-  - Christofer More no menciona expectativas específicas sobre la plataforma. <br>
-Porcentaje:
-    -  Mejorar habilidades y recibir retroalimentación: 66.7% (José, Joaquín)
+  - Christofer More no menciona expectativas específicas sobre la plataforma.  
+  **Porcentaje:**
+    - Mejorar habilidades y recibir retroalimentación: 66.7% (José, Joaquín)
     - No especificado: 33.3% (Christofer)
 
 ### 2.3 Needfinding
