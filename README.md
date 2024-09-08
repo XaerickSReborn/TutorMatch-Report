@@ -628,6 +628,14 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 <img src="Images/LandingMock4.png" width="550"/>
 <br>
 
+Mobile Version
+
+<img src="Images/mobile_1.jpg" width="550"/>
+<img src="Images/mobile_2.jpg" width="550"/>
+<img src="Images/mobile_3.jpg" width="550"/>
+<img src="Images/mobile_4.jpg" width="550"/>
+<img src="Images/mobile_5.jpg" width="550"/>
+
 ### 4.4. Web Applications UX/UI Design
 
 La Web Application es la parte principal de TutorMatch, donde los usuarios podran acceder a las funcionalidades y servicios que ofrece la plataforma.
@@ -736,6 +744,9 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
   <img src="Images/containerc4.png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="Images/componentc4.png"/>
+
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
