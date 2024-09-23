@@ -226,46 +226,102 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 ### 1.2.2.2. Lean UX Assumptions
 
 **Assumptions**:
-1. **Valor para los usuarios**:
-   - Los estudiantes valoran una plataforma donde puedan encontrar fácilmente tutorías específicas para los cursos de Ingeniería de Software.
-   - Los tutores valoran una plataforma que les permita ofrecer sus servicios de manera estructurada y con acceso directo a estudiantes que necesitan ayuda.
-
-2. **Accesibilidad**:
-   - Los estudiantes y tutores preferirán una solución que esté integrada con las herramientas que ya utilizan, como su correo electrónico institucional o aplicaciones móviles.
+1. **Business Assumptions**:
    
-3. **Sostenibilidad del modelo**:
-   - El modelo de negocio freemium, donde las tutorías básicas son gratuitas pero se ofrece un servicio premium, es sostenible en el contexto de la UPC.
-   - Los tutores están dispuestos a pagar una suscripción o comisión para acceder a un mayor número de estudiantes o para recibir herramientas adicionales que faciliten sus tutorías.
+   - Los estudiantes de Ingeniería de Software de la UPC están dispuestos a usar una plataforma de tutorías para mejorar su rendimiento académico.
 
-4. **Diferenciación**:
-   - La especialización en Ingeniería de Software es suficiente para diferenciar TutorMatch de otras plataformas de tutorías o de aprendizaje en línea que no están enfocadas en un nicho específico.
+   - Los tutores experimentados desean compartir su conocimiento y tiempo a cambio de compensación económica o académica.
+
+   - La universidad podría estar interesada en apoyar la creación de esta plataforma para mejorar el rendimiento académico general de sus estudiantes.
+
+   - El servicio de tutoría puede integrarse en el ecosistema académico de la universidad sin afectar otros servicios o plataformas existentes.
+
+
+3. **Business Outcomes**:
+   
+   - Aumentar el porcentaje de estudiantes que logran entender los cursos a través de tutorías, lo que se traducirá en una mejora en sus calificaciones.
+
+   - Reducir el nivel de estrés entre los estudiantes de primeros ciclos debido a la falta de comprensión de temas académicos.
+
+   - Crear una red activa de tutores y estudiantes que fomente el aprendizaje colaborativo.
+
+   - Generar ingresos o apoyo institucional para el mantenimiento y desarrollo de la plataforma.
+
+   
+4. **User Assumptions**:
+   
+   - Los estudiantes de primeros ciclos tienen dificultades para comprender temas académicos sin ayuda adicional.
+
+   - Los estudiantes prefieren una solución accesible y organizada por ciclo y especialidad para encontrar tutorías.
+
+   - Los tutores estarán dispuestos a gestionar sus horarios y mantener una relación profesional con sus alumnos a través de la plataforma.
+
+   - Los usuarios (tutores y estudiantes) valorarán la retroalimentación y las calificaciones, lo que impulsará la calidad del servicio.
+
+
+5. **User Outcomes**:
+   
+   - Los estudiantes podrán identificar rápidamente tutores especializados para resolver sus dudas y mejorar su comprensión de los temas.
+
+   - Los tutores tendrán una plataforma eficiente para ofrecer sus servicios, organizar sus horarios y recibir retroalimentación para mejorar su oferta.
+
+   - Los usuarios tendrán una experiencia de uso intuitiva y eficiente que reduzca el tiempo necesario para buscar o agendar tutorías.
+
+   - Un aumento en la satisfacción y el rendimiento académico entre los estudiantes de primeros ciclos.
+  
+6. **Feature Assumptions**:
+   
+  - Una plataforma que organice los tutores por ciclo y especialidad facilitará la búsqueda de ayuda académica.
+
+  - La funcionalidad de agendar sesiones de tutoría será clave para que los estudiantes puedan coordinar fácilmente con los tutores.
+
+  - El sistema de retroalimentación y valoraciones permitirá garantizar la calidad del servicio y fomentará la mejora continua de los tutores.
+
+  - La capacidad de los tutores para gestionar sus propios horarios será esencial para asegurar la disponibilidad y evitar conflictos.
+
+6. **Feature Outcomes**:
+   
+  - El proceso de encontrar un tutor y agendar una sesión será rápido y eficiente, minimizando el tiempo dedicado a la búsqueda.
+
+  - La plataforma creará un entorno confiable donde los estudiantes puedan evaluar la calidad del tutor en base a reseñas y calificaciones.
+
+  - Los tutores podrán manejar su oferta de servicios de manera flexible, optimizando su tiempo y maximizando sus oportunidades de tutoría.
+
+
+
   
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-### Hipótesis de Valor:
-- **Si ofrecemos una plataforma especializada en tutorías para estudiantes de Ingeniería de Software en la UPC**, entonces los estudiantes que necesitan apoyo académico encontrarán valor en la facilidad de encontrar tutores específicos para sus necesidades, lo que resultará en un **mejor rendimiento académico**.
-  
-### Hipótesis de Usabilidad:
-- **Si la plataforma es fácil de usar e intuitiva**, entonces tanto los estudiantes que buscan tutoría como los tutores que ofrecen sus servicios **utilizarán la plataforma regularmente** para gestionar sus tutorías, lo que mejorará la adopción del producto.
+**Hypothesis Statement 1:**
 
-### Hipótesis de Adopción:
-- **Si creamos una comunidad centrada en la Ingeniería de Software y ofrecemos opciones tanto gratuitas como de pago (freemium)**, entonces los estudiantes estarán dispuestos a **registrarse y utilizar la plataforma** inicialmente, y algunos optarán por servicios premium, lo que asegurará la adopción a largo plazo.
+Creemos que los estudiantes de los primeros ciclos de Ingeniería de Software en la UPC que enfrentan dificultades académicas estarán dispuestos a utilizar una plataforma de tutorías para encontrar apoyo en temas complejos.
+Sabremos que esto es cierto cuando veamos un aumento en la cantidad de estudiantes que se registren y utilicen la plataforma para buscar tutores especializados en sus cursos.
+Cuando al menos el 50% de los estudiantes de primeros ciclos que acceden a la plataforma agenden una sesión de tutoría dentro de las primeras semanas de su inscripción.
 
-### Hipótesis de Crecimiento:
-- **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
+**Hypothesis Statement 2:**
+
+Creemos que los tutores experimentados estarán dispuestos a ofrecer su tiempo y conocimiento en la plataforma para ayudar a los estudiantes a comprender mejor los temas de sus cursos.
+Sabremos que esto es cierto cuando veamos que un número significativo de tutores (al menos el 30% del total de posibles tutores) se registre en la plataforma y active sus ofertas de tutoría.
+Cuando los tutores comiencen a gestionar sus horarios y ofertas, y reciban al menos una retroalimentación positiva por sus servicios en la primera semana de actividad.
+
+**Hypothesis Statement 3:**
+
+Creemos que la funcionalidad de organización de cursos por ciclo y especialidad facilitará que los estudiantes encuentren a los tutores adecuados más rápidamente.
+Sabremos que esto es cierto cuando los estudiantes puedan agendar una sesión de tutoría en menos de 10 minutos tras registrarse y buscar un tutor.
+Cuando el 70% de los estudiantes que buscan tutorías utilicen esta funcionalidad para encontrar un tutor en su área de necesidad en menos de tres intentos de búsqueda.
+
+**Hypothesis Statement 4:**
+
+Creemos que un sistema de retroalimentación y valoraciones aumentará la confianza de los estudiantes al seleccionar tutores y mejorará la calidad del servicio ofrecido por los tutores.
+Sabremos que esto es cierto cuando los tutores con mejor valoración reciban un mayor número de solicitudes de tutorías en comparación con los de menor puntuación.
+Cuando los tutores con calificaciones superiores a 4.5 (en una escala de 5) reciban un 30% más de solicitudes en un mes en comparación con aquellos con calificaciones inferiores.
+
 
 ### 1.2.2.4. Lean UX Canvas
 
-# 1.2.2.4. Lean UX Canvas
+<img src="Images/UpdateCanvas.png"/>
 
-| **Problem Statement**                                                                                         | **Target Audience**                                     | **Assumptions**                                                                                                                                                                                                       | **Hipótesis**                                                                                                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TutorMatch tiene como objetivo resolver el problema de **conectar a los estudiantes del programa de Ingeniería de Software de la UPC** con **tutores calificados** para obtener apoyo académico personalizado. | - Estudiantes que necesitan ayuda académica en cursos de Ingeniería de Software. <br> - Estudiantes con habilidades destacadas que desean ofrecer servicios de tutoría. | - Los estudiantes tienen dificultades para encontrar **tutorías específicas** para sus cursos. <br> - Los tutores no cuentan con una **plataforma estructurada** para ofrecer sus servicios. <br> - Una plataforma especializada es un **diferenciador**. | - Si creamos una **plataforma especializada para tutorías en Ingeniería de Software**, entonces los estudiantes **mejorarán académicamente** al encontrar la ayuda exacta que necesitan. <br> - Si ofrecemos un **modelo freemium**, los usuarios participarán más. |
-
-| **Key Features**                                                                                             | **User Tasks**                                     | **Risks**                                                                                                                                                                                                          | **Metrics**                                                                                                                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Una plataforma que **empareja estudiantes y tutores** según cursos y especializaciones. <br> - Opciones de tutorías **presenciales y en línea**. <br> - **Interfaz amigable para móviles**. | - Los estudiantes pueden **buscar fácilmente tutores** por curso o asignatura específica.<br> - Los tutores pueden **registrarse y listar** sus calificaciones y disponibilidad.                                        | - Los estudiantes podrían **no adoptar** la plataforma si es demasiado compleja o inconveniente.<br> - Los tutores podrían **no participar** si no ven suficiente valor en registrarse.<br> - El **modelo freemium** podría no ser rentable. | - Estudiantes y tutores registrados - Sesiones de tutoría completadas - Frecuencia de uso de la plataforma - Tasa de satisfacción de usuarios- Retención de usuarios- Crecimiento mensual de usuarios- Ingresos generados- Conversión de usuarios freemium a premium
-
+[Link del Figma](https://www.figma.com/board/sndiwVTsQuXViXVQDjuGhT/Lean-UX-Canvas-(v2)-(Community)?node-id=0-1&t=j5uISMwrxwXjoOwQ-1)
 
 ### 1.3. Segmentos objetivo
 
@@ -366,28 +422,85 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 ### 2.2.1. Diseño de entrevistas
  ## Segmento 1
 Preguntas para estudiantes que requieren ayuda académica en cursos de Ingeniería de Software:
-  - ¿Cuáles son los cursos de Ingeniería de Software en los que necesitas más apoyo académico?
-  - ¿Qué desafíos específicos has enfrentado en estos cursos que te llevaron a buscar ayuda?
-  - ¿Cómo prefieres recibir tutoría? (Sesiones en línea, presenciales, individual o en grupo)
-  - ¿Qué consideras más importante en un tutor? (Conocimiento técnico, habilidades de comunicación, paciencia, etc.)
-  - ¿Has recibido tutorías anteriormente? Si es así, ¿qué es lo que más te gustó o no te gustó de la experiencia?
-  - ¿Con qué frecuencia necesitarías sesiones de tutoría para mejorar tu rendimiento académico?
-  - ¿Prefieres que el tutor sea un estudiante avanzado en tu carrera o un profesional?
-  - ¿Cuáles son tus expectativas de resultados al recibir tutoría en un curso específico?
-  - ¿Cómo te sentirías si la plataforma te conectara con tutores especializados en áreas concretas de Ingeniería de Software?
-  - ¿Qué tan probable es que recomiendes la plataforma a otros compañeros que también necesitan apoyo académico?
+ 1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿Cuáles son los cursos en los que necesitas más ayuda?
+
+6. ¿Con qué frecuencia sueles buscar apoyo académico externo?
+
+7. ¿Qué métodos de estudio sueles utilizar cuando tienes dificultades con un curso?
+
+8. ¿Qué te gustaría mejorar en tu comprensión de los temas académicos?
+
+9. ¿Qué esperas ver en una plataforma de tutorías?
+
+10. ¿Qué te gustaría que la aplicación incluyera para mejorar tu experiencia de aprendizaje?
+
+11. ¿Te sentirías cómodo utilizando una plataforma en línea para encontrar tutores?
+
+12. ¿Qué tan importante te parece poder elegir un tutor especializado en tu curso específico?
+
+13. ¿Qué tan importante es para ti la retroalimentación o las calificaciones de los tutores al seleccionar uno?
+
+14. ¿Cuántas horas a la semana estás dispuesto a dedicar a tutorías?
+
+15. ¿Qué te motiva a recomendar un tutor a otros compañeros de clase?
+
+16. ¿Qué tipo de tutorías prefieres (presencial o virtual)?
+
+17. ¿Qué otras funcionalidades te gustaría que la aplicación de tutorías incluyera para hacer el proceso más eficiente o atractivo?
+
+18. ¿Cómo crees que la plataforma podría ayudarte a organizar mejor tu tiempo de estudio?
+
+19. ¿Qué te gustaría mejorar en el proceso de agendar sesiones de tutoría?
+
   ## Segmento 2
 Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorías
-  - ¿Qué cursos de Ingeniería de Software consideras que dominas lo suficiente como para ofrecer tutorías?
-  - ¿Qué te motiva a ser tutor? (Ganar experiencia, ingresos, ayudar a otros estudiantes, etc.)
-  - ¿Cómo describirías tu estilo de enseñanza cuando ayudas a tus compañeros?
-  - ¿Qué herramientas o recursos utilizas para explicar conceptos difíciles?
-  - ¿Cómo manejarías a un estudiante que tiene dificultades para entender un tema específico?
-  - ¿Estarías dispuesto a realizar tutorías en línea, presenciales, o ambas?
-  - ¿Cómo organizarías y gestionarías tu tiempo entre tus estudios y tus sesiones de tutoría?
-  - ¿Qué esperas ganar de la experiencia de ser tutor en la plataforma?
-  - ¿Qué tipos de estudiantes crees que beneficiarán más de tus tutorías?
-  - ¿Cuáles son tus expectativas sobre la plataforma TutorMatch en términos de ayudarte a mejorar como tutor?
+1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿En qué cursos te especializas para ofrecer tutorías?
+
+6. ¿Cuántas horas a la semana estarías disponible para ofrecer tutorías?
+
+7. ¿Has ofrecido tutorías a otros estudiantes antes? Si es así, ¿cómo ha sido tu experiencia?
+
+8. ¿Qué te motiva a ofrecer tutorías a otros estudiantes?
+
+9. ¿Qué esperas ver en una plataforma de tutorías para facilitar tu trabajo como tutor?
+
+10. ¿Qué te gustaría que la aplicación incluyera para hacer más fácil la gestión de tus tutorías?
+
+11. ¿Qué tan cómodo te sientes gestionando tus horarios de tutorías en una plataforma en línea?
+
+12. ¿Qué características te gustaría ver en una plataforma para facilitar la oferta de tus servicios de tutoría?
+
+13. ¿Qué te parece más importante al elegir a qué estudiantes ofrecer tutorías?
+
+14. ¿Qué valoras más en el proceso de retroalimentación de tus alumnos?
+
+15. ¿Cómo prefieres realizar las sesiones de tutoría (presencial, virtual, grupal, individual)?
+
+16. ¿Qué tan importante te parece recibir una compensación económica o académica por tus tutorías?
+
+17. ¿Qué otras funcionalidades o herramientas te gustaría que la plataforma incluyera para mejorar la calidad de tus tutorías?
+
+18. ¿Te gustaría tener acceso a herramientas adicionales para mejorar la calidad de tus tutorías?
+
+19. ¿Qué te motivaría a recomendar la plataforma a otros tutores o estudiantes?
+
+20. ¿Qué crees que se podría mejorar en el proceso de gestionar tus horarios y ofertas de tutoría en línea?
 
 ### 2.2.2. Registro de entrevistas
 
